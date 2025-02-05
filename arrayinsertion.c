@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+@AUTHOR Egan OMbaka
+*/
 
 int main()
 {
